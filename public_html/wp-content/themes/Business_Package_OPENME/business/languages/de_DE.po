@@ -1,0 +1,1828 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Business v1.25\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-18 18:58:36+0000\n"
+"Last-Translator: robbie <rgrabowski@mrsmithagency.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:16
+#@ business
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+#@ business
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:28
+#@ business
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:45
+#, php-format
+#@ business
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:28
+#, php-format
+#@ business
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+#@ business
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:34
+#, php-format
+#@ business
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:34
+#@ business
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:37
+#, php-format
+#@ business
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:37
+#@ business
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:40
+#@ business
+msgid "Asides"
+msgstr ""
+
+#: archive.php:43
+#@ business
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:46
+#@ business
+msgid "Images"
+msgstr ""
+
+#: archive.php:49
+#@ business
+msgid "Videos"
+msgstr ""
+
+#: archive.php:52
+#@ business
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:55
+#@ business
+msgid "Links"
+msgstr ""
+
+#: archive.php:58
+#@ business
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:61
+#@ business
+msgid "Audios"
+msgstr ""
+
+#: archive.php:64
+#@ business
+msgid "Chats"
+msgstr ""
+
+#: archive.php:67
+#@ business
+msgid "Archives"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+#@ business
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35
+#: comments.php:52
+#@ business
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36
+#: comments.php:53
+#@ business
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37
+#: comments.php:54
+#@ business
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64
+#@ business
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:14
+#@ business
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:20
+#, php-format
+#@ business
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:24
+#@ business
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-none.php:29
+#@ business
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-page.php:15
+#: content-single.php:17
+#: content-work.php:19
+#: content.php:30
+#@ business
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:22
+#: content-search.php:57
+#: content-single.php:57
+#: content-work.php:23
+#: content.php:61
+#@ business
+msgid "Edit"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: content-search.php:34
+#: content-search.php:44
+#: content-single.php:26
+#: content-single.php:29
+#: content.php:40
+#: content.php:50
+#@ business
+msgid ", "
+msgstr ""
+
+#: content-search.php:38
+#: content.php:44
+#, php-format
+#@ business
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content-search.php:48
+#: content.php:54
+#, php-format
+#@ business
+msgid "Tagged %1$s"
+msgstr ""
+
+#: content-search.php:54
+#@ business
+msgid "Leave a comment"
+msgstr ""
+
+#: content-search.php:54
+#@ business
+msgid "1 Comment"
+msgstr ""
+
+#: content-search.php:54
+#@ business
+msgid "% Comments"
+msgstr ""
+
+#: content-single.php:34
+#, php-format
+#@ business
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-single.php:36
+#, php-format
+#@ business
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-single.php:42
+#, php-format
+#@ business
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-single.php:44
+#, php-format
+#@ business
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content.php:22
+#: content.php:24
+#@ business
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:79
+#, php-format
+#@ business
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: functions.php:56
+#@ business
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:107
+#@ business
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:117
+#@ business
+msgid "Home Page Middle Section (Left)"
+msgstr ""
+
+#: functions.php:127
+#@ business
+msgid "Home Page Middle Section (Right)"
+msgstr ""
+
+#: functions.php:137
+#@ business
+msgid "First Footer Column"
+msgstr ""
+
+#: functions.php:147
+#@ business
+msgid "Second Footer Column"
+msgstr ""
+
+#: functions.php:157
+#@ business
+msgid "Third Footer Column"
+msgstr ""
+
+#: functions.php:167
+#@ business
+msgid "Fourth Footer Column"
+msgstr ""
+
+#: functions.php:316
+#@ text_domain
+msgctxt "Post Type General Name"
+msgid "Slider"
+msgstr ""
+
+#: functions.php:317
+#@ text_domain
+msgctxt "Post Type Singular Name"
+msgid "Slide"
+msgstr ""
+
+#: functions.php:318
+#@ text_domain
+msgid "Slides"
+msgstr ""
+
+#: functions.php:319
+#: functions.php:404
+#: functions.php:485
+#: functions.php:560
+#@ text_domain
+msgid "Parent Item:"
+msgstr ""
+
+#: functions.php:320
+#@ text_domain
+msgid "All Slides"
+msgstr ""
+
+#: functions.php:321
+#@ text_domain
+msgid "View Slides"
+msgstr ""
+
+#: functions.php:322
+#@ text_domain
+msgid "Add New Slide"
+msgstr ""
+
+#: functions.php:323
+#: functions.php:408
+#: functions.php:489
+#: functions.php:564
+#@ text_domain
+msgid "Add New"
+msgstr ""
+
+#: functions.php:324
+#@ text_domain
+msgid "Edit Slide"
+msgstr ""
+
+#: functions.php:325
+#@ text_domain
+msgid "Update Slide"
+msgstr ""
+
+#: functions.php:326
+#@ text_domain
+msgid "Search Slides"
+msgstr ""
+
+#: functions.php:327
+#: functions.php:412
+#: functions.php:493
+#: functions.php:568
+#@ text_domain
+msgid "Not found"
+msgstr ""
+
+#: functions.php:328
+#: functions.php:413
+#: functions.php:494
+#: functions.php:569
+#@ text_domain
+msgid "Not found in Trash"
+msgstr ""
+
+#: functions.php:331
+#@ text_domain
+msgid "slides"
+msgstr ""
+
+#: functions.php:332
+#@ text_domain
+msgid "Add a slide to your schedule."
+msgstr ""
+
+#: functions.php:381
+#@ cmb
+msgid "Button URL"
+msgstr ""
+
+#: functions.php:401
+#@ text_domain
+msgctxt "Post Type General Name"
+msgid "Team"
+msgstr ""
+
+#: functions.php:402
+#@ text_domain
+msgctxt "Post Type Singular Name"
+msgid "Team Member"
+msgstr ""
+
+#: functions.php:403
+#@ text_domain
+msgid "Team Members"
+msgstr ""
+
+#: functions.php:405
+#@ text_domain
+msgid "All Members"
+msgstr ""
+
+#: functions.php:406
+#@ text_domain
+msgid "View Members"
+msgstr ""
+
+#: functions.php:407
+#@ text_domain
+msgid "Add New Member"
+msgstr ""
+
+#: functions.php:409
+#@ text_domain
+msgid "Edit Member"
+msgstr ""
+
+#: functions.php:410
+#@ text_domain
+msgid "Update Member"
+msgstr ""
+
+#: functions.php:411
+#@ text_domain
+msgid "Search Members"
+msgstr ""
+
+#: functions.php:416
+#@ text_domain
+msgid "members"
+msgstr ""
+
+#: functions.php:417
+#@ text_domain
+msgid "Add a member to your team."
+msgstr ""
+
+#: functions.php:482
+#@ text_domain
+msgctxt "Post Type General Name"
+msgid "Client"
+msgstr ""
+
+#: functions.php:483
+#@ text_domain
+msgctxt "Post Type Singular Name"
+msgid "Client"
+msgstr ""
+
+#: functions.php:484
+#@ text_domain
+msgid "Clients"
+msgstr ""
+
+#: functions.php:486
+#@ text_domain
+msgid "All Clients"
+msgstr ""
+
+#: functions.php:487
+#@ text_domain
+msgid "View Clients"
+msgstr ""
+
+#: functions.php:488
+#@ text_domain
+msgid "Add New Client"
+msgstr ""
+
+#: functions.php:490
+#@ text_domain
+msgid "Edit Client"
+msgstr ""
+
+#: functions.php:491
+#@ text_domain
+msgid "Update Client"
+msgstr ""
+
+#: functions.php:492
+#@ text_domain
+msgid "Search Clients"
+msgstr ""
+
+#: functions.php:497
+#@ text_domain
+msgid "clients"
+msgstr ""
+
+#: functions.php:498
+#@ text_domain
+msgid "Add a client to your resume."
+msgstr ""
+
+#: functions.php:557
+#@ text_domain
+msgctxt "Post Type General Name"
+msgid "Work"
+msgstr ""
+
+#: functions.php:558
+#@ text_domain
+msgctxt "Post Type Singular Name"
+msgid "Work"
+msgstr ""
+
+#: functions.php:559
+#@ text_domain
+msgid "Work Portfolio"
+msgstr ""
+
+#: functions.php:561
+#@ text_domain
+msgid "All Works"
+msgstr ""
+
+#: functions.php:562
+#@ text_domain
+msgid "View Works"
+msgstr ""
+
+#: functions.php:563
+#@ text_domain
+msgid "Add New Work"
+msgstr ""
+
+#: functions.php:565
+#@ text_domain
+msgid "Edit Work"
+msgstr ""
+
+#: functions.php:566
+#@ text_domain
+msgid "Update Work"
+msgstr ""
+
+#: functions.php:567
+#@ text_domain
+msgid "Search Works"
+msgstr ""
+
+#: functions.php:572
+#@ text_domain
+msgid "works"
+msgstr ""
+
+#: functions.php:573
+#@ text_domain
+msgid "Add a work to your portfolio."
+msgstr ""
+
+#: header.php:42
+#@ business
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:72
+#@ business
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer.php:25
+#@ business
+msgid "Like Business? Help Us Out."
+msgstr ""
+
+#: inc/customizer.php:27
+#@ business
+msgid "We do all we can do to make all our themes free for you. While we enjoy it, and it makes us happy to help out, a little appreciation can help us to keep theming.</strong><br/><br/> Please help support our mission and continued development with a donation of $5, $10, $20, or if you are feeling really kind $100..<br/><br/> <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LMGYAZW9C5GE\" target=\"_blank\" rel=\"nofollow\"><img class=\"\" src=\"https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"Make a donation to ModernThemes\" /></a>"
+msgstr ""
+
+#: inc/customizer.php:49
+#@ business
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer.php:99
+#@ business
+msgid "Select your desired font for the headings. Open Sans is the default Heading font."
+msgstr ""
+
+#: inc/customizer.php:116
+#@ business
+msgid "Select your desired font for the body. Open Sans is the default Body font."
+msgstr ""
+
+#: inc/customizer.php:129
+#@ business
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:141
+#@ business
+msgid "Hover Color"
+msgstr ""
+
+#: inc/customizer.php:153
+#@ business
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer.php:165
+#@ business
+msgid "Theme Hover Color"
+msgstr ""
+
+#: inc/customizer.php:173
+#@ business
+msgid "Logo and Icons"
+msgstr ""
+
+#: inc/customizer.php:175
+#@ business
+msgid "Upload a logo to replace the default site name and description in the header. Also, upload your site favicon and Apple Icons."
+msgstr ""
+
+#: inc/customizer.php:183
+#@ business
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:196
+#@ business
+msgid "Change the width of the Logo in PX."
+msgstr ""
+
+#: inc/customizer.php:197
+#@ business
+msgid "Only enter numeric value"
+msgstr ""
+
+#: inc/customizer.php:216
+#@ business
+msgid "Upload your favicon (16x16 pixels)"
+msgstr ""
+
+#: inc/customizer.php:237
+#@ business
+msgid "Upload your Apple Touch Icon (144x144 pixels)"
+msgstr ""
+
+#: inc/customizer.php:258
+#@ business
+msgid "Upload your Apple Touch Icon (114x114 pixels)"
+msgstr ""
+
+#: inc/customizer.php:279
+#@ business
+msgid "Upload your Apple Touch Icon (72x72 pixels)"
+msgstr ""
+
+#: inc/customizer.php:300
+#@ business
+msgid "Upload your Apple Touch Icon (57x57 pixels)"
+msgstr ""
+
+#: inc/customizer.php:312
+#@ business
+msgid "Home Page Top Section"
+msgstr ""
+
+#: inc/customizer.php:314
+#@ business
+msgid "Icons are a beautiful expression. Choose from any of <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">these icons</a>. Example: \"fa-arrow-right\""
+msgstr ""
+
+#: inc/customizer.php:327
+#@ business
+msgid "Hide Call-to-Action"
+msgstr ""
+
+#: inc/customizer.php:342
+#@ business
+msgid "Hide Services Columns"
+msgstr ""
+
+#: inc/customizer.php:353
+#: inc/customizer.php:659
+#@ business
+msgid "Call-to-action display text"
+msgstr ""
+
+#: inc/customizer.php:365
+#: inc/customizer.php:671
+#@ business
+msgid "Call-to-action button text"
+msgstr ""
+
+#: inc/customizer.php:379
+#@ business
+msgid "Front Page Call-to-Action URL"
+msgstr ""
+
+#: inc/customizer.php:393
+#@ business
+msgid "First Icon"
+msgstr ""
+
+#: inc/customizer.php:406
+#@ business
+msgid "First Title"
+msgstr ""
+
+#: inc/customizer.php:419
+#@ business
+msgid "First Column Description"
+msgstr ""
+
+#: inc/customizer.php:432
+#@ business
+msgid "Second Icon"
+msgstr ""
+
+#: inc/customizer.php:445
+#@ business
+msgid "Second Title"
+msgstr ""
+
+#: inc/customizer.php:458
+#@ business
+msgid "Second Column Description"
+msgstr ""
+
+#: inc/customizer.php:471
+#@ business
+msgid "Third Icon"
+msgstr ""
+
+#: inc/customizer.php:484
+#@ business
+msgid "Third Title"
+msgstr ""
+
+#: inc/customizer.php:497
+#@ business
+msgid "Third Column Description"
+msgstr ""
+
+#: inc/customizer.php:510
+#@ business
+msgid "Fourth Icon"
+msgstr ""
+
+#: inc/customizer.php:523
+#@ business
+msgid "Fourth Title"
+msgstr ""
+
+#: inc/customizer.php:536
+#@ business
+msgid "Fourth Column Description"
+msgstr ""
+
+#: inc/customizer.php:544
+#@ business
+msgid "Home Page Middle Section"
+msgstr ""
+
+#: inc/customizer.php:546
+#@ business
+msgid "Customize the middle section of your home page."
+msgstr ""
+
+#: inc/customizer.php:559
+#@ business
+msgid "Hide Middle Widget Area"
+msgstr ""
+
+#: inc/customizer.php:574
+#@ business
+msgid "Hide Home Blog Area"
+msgstr ""
+
+#: inc/customizer.php:586
+#@ business
+msgid "Home Page Main Title. Edit the content as a widget in the widget area."
+msgstr ""
+
+#: inc/customizer.php:599
+#@ business
+msgid "Home Page Middle Subtitle"
+msgstr ""
+
+#: inc/customizer.php:612
+#@ business
+msgid "Home Page Blog Title"
+msgstr ""
+
+#: inc/customizer.php:625
+#@ business
+msgid "Home Page Blog Subtitle"
+msgstr ""
+
+#: inc/customizer.php:633
+#@ business
+msgid "Before Footer Call-to-action"
+msgstr ""
+
+#: inc/customizer.php:635
+#@ business
+msgid "Customize the call-to-action before your footer"
+msgstr ""
+
+#: inc/customizer.php:648
+#@ business
+msgid "Hide Bottom Call-to-Action"
+msgstr ""
+
+#: inc/customizer.php:685
+#@ business
+msgid "Before Footer Call-to-action URL"
+msgstr ""
+
+#: inc/customizer.php:694
+#@ business
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:696
+#@ business
+msgid "Customize your footer area"
+msgstr ""
+
+#: inc/customizer.php:705
+#@ business
+msgid "Footer Byline Text"
+msgstr ""
+
+#: inc/customizer.php:713
+#@ business
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:724
+#@ business
+msgid "Post content"
+msgstr ""
+
+#: inc/customizer.php:746
+#@ business
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/customizer.php:747
+#@ business
+msgid "Choose your excerpt length here. Default: 30 words"
+msgstr ""
+
+#: inc/extras.php:63
+#, php-format
+#@ business
+msgid "Page %s"
+msgstr ""
+
+#: inc/my-custom-css.php:61
+#@ mccss
+msgid "Settings"
+msgstr ""
+
+#: inc/my-custom-css.php:64
+#@ mccss
+msgid "Support"
+msgstr ""
+
+#: inc/my-custom-css.php:89
+#@ mccss
+msgid "My Custom CSS Panel"
+msgstr ""
+
+#: inc/my-custom-css.php:89
+#@ mccss
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/my-custom-css.php:141
+#@ mccss
+msgid "Custom CSS Panel"
+msgstr ""
+
+#: inc/my-custom-css.php:144
+#@ mccss
+msgid "Place your custom CSS code here:"
+msgstr ""
+
+#: inc/my-custom-css.php:144
+#: inc/my-custom-css.php:148
+#: meta/init.php:1177
+#@ mccss
+#@ default
+msgid "Save"
+msgstr ""
+
+#: inc/template-tags.php:21
+#@ business
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+#@ business
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:29
+#@ business
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:52
+#@ business
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:55
+#, php-format
+#@ business
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: inc/template-tags.php:56
+#, php-format
+#@ business
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+#@ business
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:87
+#, php-format
+#@ business
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: meta/example-functions.php:28
+#@ cmb
+msgid "Test Metabox"
+msgstr ""
+
+#: meta/example-functions.php:36
+#: meta/example-functions.php:270
+#@ cmb
+msgid "Test Text"
+msgstr ""
+
+#: meta/example-functions.php:37
+#: meta/example-functions.php:48
+#: meta/example-functions.php:55
+#: meta/example-functions.php:62
+#: meta/example-functions.php:70
+#: meta/example-functions.php:77
+#: meta/example-functions.php:89
+#: meta/example-functions.php:95
+#: meta/example-functions.php:102
+#: meta/example-functions.php:117
+#: meta/example-functions.php:125
+#: meta/example-functions.php:132
+#: meta/example-functions.php:138
+#: meta/example-functions.php:144
+#: meta/example-functions.php:156
+#: meta/example-functions.php:167
+#: meta/example-functions.php:178
+#: meta/example-functions.php:189
+#: meta/example-functions.php:197
+#: meta/example-functions.php:204
+#: meta/example-functions.php:212
+#: meta/example-functions.php:218
+#: meta/example-functions.php:230
+#: meta/example-functions.php:271
+#: meta/example-functions.php:337
+#: meta/example-functions.php:344
+#: meta/example-functions.php:351
+#: meta/example-functions.php:357
+#: meta/example-functions.php:363
+#: meta/example-functions.php:369
+#: meta/example-functions.php:375
+#: meta/example-functions.php:393
+#@ cmb
+msgid "field description (optional)"
+msgstr ""
+
+#: meta/example-functions.php:47
+#@ cmb
+msgid "Test Text Small"
+msgstr ""
+
+#: meta/example-functions.php:54
+#@ cmb
+msgid "Test Text Medium"
+msgstr ""
+
+#: meta/example-functions.php:61
+#@ cmb
+msgid "Website URL"
+msgstr ""
+
+#: meta/example-functions.php:69
+#@ cmb
+msgid "Test Text Email"
+msgstr ""
+
+#: meta/example-functions.php:76
+#@ cmb
+msgid "Test Time"
+msgstr ""
+
+#: meta/example-functions.php:82
+#: meta/example-functions.php:83
+#@ cmb
+msgid "Time zone"
+msgstr ""
+
+#: meta/example-functions.php:88
+#@ cmb
+msgid "Test Date Picker"
+msgstr ""
+
+#: meta/example-functions.php:94
+#@ cmb
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: meta/example-functions.php:101
+#@ cmb
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: meta/example-functions.php:116
+#@ cmb
+msgid "Test Money"
+msgstr ""
+
+#: meta/example-functions.php:124
+#@ cmb
+msgid "Test Color Picker"
+msgstr ""
+
+#: meta/example-functions.php:131
+#@ cmb
+msgid "Test Text Area"
+msgstr ""
+
+#: meta/example-functions.php:137
+#@ cmb
+msgid "Test Text Area Small"
+msgstr ""
+
+#: meta/example-functions.php:143
+#@ cmb
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: meta/example-functions.php:149
+#@ cmb
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: meta/example-functions.php:150
+#@ cmb
+msgid "This is a title description"
+msgstr ""
+
+#: meta/example-functions.php:155
+#@ cmb
+msgid "Test Select"
+msgstr ""
+
+#: meta/example-functions.php:160
+#: meta/example-functions.php:171
+#: meta/example-functions.php:182
+#@ cmb
+msgid "Option One"
+msgstr ""
+
+#: meta/example-functions.php:161
+#: meta/example-functions.php:172
+#: meta/example-functions.php:183
+#@ cmb
+msgid "Option Two"
+msgstr ""
+
+#: meta/example-functions.php:162
+#: meta/example-functions.php:173
+#: meta/example-functions.php:184
+#@ cmb
+msgid "Option Three"
+msgstr ""
+
+#: meta/example-functions.php:166
+#@ cmb
+msgid "Test Radio inline"
+msgstr ""
+
+#: meta/example-functions.php:177
+#@ cmb
+msgid "Test Radio"
+msgstr ""
+
+#: meta/example-functions.php:188
+#@ cmb
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: meta/example-functions.php:196
+#@ cmb
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: meta/example-functions.php:203
+#@ cmb
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: meta/example-functions.php:211
+#@ cmb
+msgid "Test Checkbox"
+msgstr ""
+
+#: meta/example-functions.php:217
+#@ cmb
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: meta/example-functions.php:222
+#@ cmb
+msgid "Check One"
+msgstr ""
+
+#: meta/example-functions.php:223
+#@ cmb
+msgid "Check Two"
+msgstr ""
+
+#: meta/example-functions.php:224
+#@ cmb
+msgid "Check Three"
+msgstr ""
+
+#: meta/example-functions.php:229
+#@ cmb
+msgid "Test wysiwyg"
+msgstr ""
+
+#: meta/example-functions.php:236
+#@ cmb
+msgid "Test Image"
+msgstr ""
+
+#: meta/example-functions.php:237
+#@ cmb
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: meta/example-functions.php:242
+#@ cmb
+msgid "Multiple Files"
+msgstr ""
+
+#: meta/example-functions.php:243
+#@ cmb
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: meta/example-functions.php:249
+#@ cmb
+msgid "oEmbed"
+msgstr ""
+
+#: meta/example-functions.php:250
+#@ cmb
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/Embeds</a>."
+msgstr ""
+
+#: meta/example-functions.php:262
+#@ cmb
+msgid "About Page Metabox"
+msgstr ""
+
+#: meta/example-functions.php:283
+#@ cmb
+msgid "Repeating Field Group"
+msgstr ""
+
+#: meta/example-functions.php:289
+#@ cmb
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: meta/example-functions.php:291
+#@ cmb
+msgid "Entry {#}"
+msgstr ""
+
+#: meta/example-functions.php:292
+#@ cmb
+msgid "Add Another Entry"
+msgstr ""
+
+#: meta/example-functions.php:293
+#@ cmb
+msgid "Remove Entry"
+msgstr ""
+
+#: meta/example-functions.php:330
+#@ cmb
+msgid "User Profile Metabox"
+msgstr ""
+
+#: meta/example-functions.php:336
+#@ cmb
+msgid "Extra Info"
+msgstr ""
+
+#: meta/example-functions.php:343
+#@ cmb
+msgid "Avatar"
+msgstr ""
+
+#: meta/example-functions.php:350
+#@ cmb
+msgid "Facebook URL"
+msgstr ""
+
+#: meta/example-functions.php:356
+#@ cmb
+msgid "Twitter URL"
+msgstr ""
+
+#: meta/example-functions.php:362
+#@ cmb
+msgid "Google+ URL"
+msgstr ""
+
+#: meta/example-functions.php:368
+#@ cmb
+msgid "Linkedin URL"
+msgstr ""
+
+#: meta/example-functions.php:374
+#@ cmb
+msgid "User Field"
+msgstr ""
+
+#: meta/example-functions.php:388
+#@ cmb
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: meta/example-functions.php:392
+#@ cmb
+msgid "Site Background Color"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_ajax.php:47
+#@ cmb
+msgid "Please Try Again"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_ajax.php:131
+#@ cmb
+msgid "Remove Embed"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+#@ cmb
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_field.php:459
+#@ cmb
+msgid "Add Group"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_field.php:460
+#@ cmb
+msgid "Remove Group"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:250
+#@ cmb
+msgid "Add Row"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:306
+#: meta/helpers/cmb_Meta_Box_types.php:706
+#: meta/helpers/cmb_Meta_Box_types.php:768
+#@ cmb
+msgid "Remove"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:601
+#: meta/helpers/cmb_Meta_Box_types.php:635
+#@ cmb
+msgid "No terms"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:674
+#: meta/helpers/cmb_Meta_Box_types.php:728
+#@ cmb
+msgid "Add or Upload File"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:695
+#: meta/helpers/cmb_Meta_Box_types.php:760
+#@ cmb
+msgid "Remove Image"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:706
+#: meta/helpers/cmb_Meta_Box_types.php:768
+#@ cmb
+msgid "File:"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:706
+#: meta/helpers/cmb_Meta_Box_types.php:768
+#@ cmb
+msgid "Download"
+msgstr ""
+
+#: meta/init.php:258
+#@ default
+msgid "Clear"
+msgstr ""
+
+#: meta/init.php:259
+#@ default
+msgid "Default"
+msgstr ""
+
+#: meta/init.php:260
+#@ default
+msgid "Select Color"
+msgstr ""
+
+#: meta/init.php:261
+#@ default
+msgid "Current Color"
+msgstr ""
+
+#: meta/init.php:288
+#@ cmb
+msgid "Select / Deselect All"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:321
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:323
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:325
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:327
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:329
+#, php-format
+#@ business
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:331
+#, php-format
+#@ business
+msgid "First time using Modern Themes? We recommend certain plugins if you desire additional functionality (like %1$s)."
+msgid_plural "First time using Modern Themes? We recommend certain plugins if you desire additional functionality (like %1$s)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:333
+#, php-format
+#@ business
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:335
+#, php-format
+#@ business
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:337
+#, php-format
+#@ business
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:339
+#, php-format
+#@ business
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:341
+#, php-format
+#@ business
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:343
+#, php-format
+#@ business
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:345
+#@ business
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:347
+#@ business
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:349
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:351
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:353
+#: panel/class-tgm-plugin-activation.php:3891
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:357
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:359
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:1069
+#: panel/class-tgm-plugin-activation.php:4325
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2339
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2345
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2355
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2361
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2361
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2367
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2371
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2581
+#: panel/class-tgm-plugin-activation.php:2797
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2625
+#: panel/class-tgm-plugin-activation.php:2799
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2723
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2755
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2757
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2759
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2761
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: panel/class-tgm-plugin-activation.php:3273
+#: panel/class-tgm-plugin-activation.php:355
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:3857
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3859
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3861
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3863
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3865
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3867
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3889
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4117
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4119
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4119
+#: panel/class-tgm-plugin-activation.php:4137
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4119
+#: panel/class-tgm-plugin-activation.php:4137
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4121
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4123
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4131
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4133
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4135
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4137
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4139
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4141
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/functions-admin.php:49
+#, php-format
+#@ default
+msgid "Need <a style=\"text-decoration: none;\" href=\"http://modernthemes.net/custom-work/\" target=_blank\">theme customization</a> for WordPress? Know someone who needs a custom theme? Earn 20%% with our affiliate program. <a style=\"text-decoration: none;\" href=\"http://modernthemes.net/affiliate-program/\" target=_blank\">Click here.</a> | <a style=\"text-decoration: none;\" href=\"%1$s\">Close</a>"
+msgstr ""
+
+#: panel/theme-admin_page.php:214
+#@ business
+msgid "Thank you for using ModernThemes!"
+msgstr ""
+
+#: panel/theme-admin_page.php:222
+#@ business
+msgid "Want to Give Back?"
+msgstr ""
+
+#: panel/theme-admin_page.php:226
+#@ business
+msgid "Please help support our mission and continued development of free themes with a donation of $5, $10, $20, or more!"
+msgstr ""
+
+#: panel/theme-admin_page.php:232
+#@ business
+msgid "Documentation"
+msgstr ""
+
+#: panel/theme-admin_page.php:237
+#@ business
+msgid "Check out our <a href=\"http://modernthemes.net/documentation/\">ModernThemes documentation</a> to learn how to use business and all the rest of our themes. "
+msgstr ""
+
+#: panel/theme-admin_page.php:241
+#@ business
+msgid "Read Docs"
+msgstr ""
+
+#: panel/theme-admin_page.php:245
+#@ business
+msgid "About ModernThemes"
+msgstr ""
+
+#: panel/theme-admin_page.php:249
+#@ business
+msgid "Want more WordPress themes or support and customization? We can probably help you out at <a href=\"http://modernthemes.net/\" target=\"_blank\">modernthemes.net</a>."
+msgstr ""
+
+#: panel/theme-admin_page.php:253
+#@ business
+msgid "About Us"
+msgstr ""
+
+#: search.php:17
+#, php-format
+#@ business
+msgid "Search Results for: %s"
+msgstr ""
+
+#: widgets/contact-info.php:13
+#@ business
+msgid "Display your contact info"
+msgstr ""
+
+#: widgets/contact-info.php:15
+#@ business
+msgid "MT: Contact Info Widget"
+msgstr ""
+
+#: widgets/contact-info.php:53
+#: widgets/video-widget.php:49
+#@ business
+msgid "Title"
+msgstr ""
+
+#: widgets/contact-info.php:61
+#@ business
+msgid "Enter your address"
+msgstr ""
+
+#: widgets/contact-info.php:67
+#@ business
+msgid "Enter your phone number"
+msgstr ""
+
+#: widgets/contact-info.php:73
+#@ business
+msgid "Enter your email address"
+msgstr ""
+
+#: widgets/contact-info.php:171
+#@ business
+msgid "Contact info"
+msgstr ""
+
+#: widgets/contact-info.php:195
+#@ business
+msgid "Address: "
+msgstr ""
+
+#: widgets/contact-info.php:205
+#@ business
+msgid "Phone: "
+msgstr ""
+
+#: widgets/contact-info.php:215
+#@ business
+msgid "Email: "
+msgstr ""
+
+#: widgets/video-widget.php:13
+#@ business
+msgid "Video for your sidebar."
+msgstr ""
+
+#: widgets/video-widget.php:15
+#@ business
+msgid "MT: Video Widget"
+msgstr ""
+
+#: widgets/video-widget.php:57
+#@ business
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr ""
+
+#: widgets/video-widget.php:151
+#@ business
+msgid "Video"
+msgstr ""
+
